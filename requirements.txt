@@ -1,0 +1,9 @@
+loguru~=0.7.2
+web3~=6.19.0
+PyYAML~=6.0.1
+art~=6.2
+better_proxy
+Jam_Twitter_API
+pydantic~=2.7.4
+noble_tls~=0.0.104
+pyuseragents~=1.0.5

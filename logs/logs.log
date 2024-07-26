@@ -1,0 +1,194 @@
+2024-06-30 15:25:32.584 | INFO     | __main__:<module>:18 - test
+2024-06-30 16:14:55.295 | INFO     | __main__:run:18 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:21:00.513 | INFO     | __main__:run:19 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:21:02.700 | INFO     | __main__:run:19 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:21:03.170 | INFO     | __main__:run:19 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:21:04.211 | INFO     | __main__:run:19 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:21:04.789 | INFO     | __main__:run:19 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:21:05.574 | INFO     | __main__:run:19 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:21:06.043 | INFO     | __main__:run:19 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:21:06.666 | INFO     | __main__:run:19 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:21:07.621 | INFO     | __main__:run:19 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:21:08.124 | INFO     | __main__:run:19 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:21:09.044 | INFO     | __main__:run:19 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:21:18.524 | INFO     | __main__:run:19 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:55:47.698 | INFO     | __main__:run:21 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:56:37.440 | INFO     | src.twitter.bk_twitter:start:186 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 16:57:35.137 | ERROR    | src.twitter.bk_twitter:start:205 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: Client Error: 403 for url: https://twitter.com/i/api/2/oauth2/authorize?client_id=KP3Ju3kFcXfYNsguvM6wwetzkzByjSBF&code_challenge=y_SfRG4BmOES02uqWeIkIgLQAlTBggyf_G7uKT51ku8&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fblackpass.api.astranova.world%2Faccount-verification%2Ftwitter%2Fcallback&response_type=code&scope=users.read+tweet.read&state=state | Retrying..
+2024-06-30 16:57:38.139 | INFO     | src.twitter.bk_twitter:start:186 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 16:58:27.366 | ERROR    | src.twitter.bk_twitter:start:205 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: Client Error: 403 for url: https://twitter.com/i/api/2/oauth2/authorize?client_id=KP3Ju3kFcXfYNsguvM6wwetzkzByjSBF&code_challenge=y_SfRG4BmOES02uqWeIkIgLQAlTBggyf_G7uKT51ku8&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fblackpass.api.astranova.world%2Faccount-verification%2Ftwitter%2Fcallback&response_type=code&scope=users.read+tweet.read&state=state | Retrying..
+2024-06-30 16:58:30.370 | INFO     | src.twitter.bk_twitter:start:186 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 16:58:35.508 | ERROR    | src.twitter.bk_twitter:start:205 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: Client Error: 403 for url: https://twitter.com/i/api/2/oauth2/authorize?client_id=KP3Ju3kFcXfYNsguvM6wwetzkzByjSBF&code_challenge=y_SfRG4BmOES02uqWeIkIgLQAlTBggyf_G7uKT51ku8&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fblackpass.api.astranova.world%2Faccount-verification%2Ftwitter%2Fcallback&response_type=code&scope=users.read+tweet.read&state=state | Retrying..
+2024-06-30 16:58:38.510 | SUCCESS  | src.bot.bkbot:start:35 - Account: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Finished
+2024-06-30 16:59:45.758 | INFO     | __main__:run:21 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 16:59:50.933 | INFO     | src.twitter.bk_twitter:start:186 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 17:03:46.331 | INFO     | __main__:run:21 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 17:03:46.332 | INFO     | src.twitter.bk_twitter:start:186 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 17:06:35.460 | INFO     | __main__:run:21 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 17:06:35.461 | INFO     | src.twitter.bk_twitter:start:186 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 17:07:45.931 | INFO     | __main__:run:21 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 17:07:45.933 | INFO     | src.twitter.bk_twitter:start:186 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 17:07:53.312 | ERROR    | src.twitter.bk_twitter:start:205 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: object Response can't be used in 'await' expression | Retrying..
+2024-06-30 17:07:56.318 | INFO     | src.twitter.bk_twitter:start:186 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 17:09:07.293 | INFO     | __main__:run:21 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 17:09:07.295 | INFO     | src.twitter.bk_twitter:start:186 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 17:09:56.633 | ERROR    | src.twitter.bk_twitter:start:205 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: object Response can't be used in 'await' expression | Retrying..
+2024-06-30 17:09:59.635 | INFO     | src.twitter.bk_twitter:start:186 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 17:11:06.780 | INFO     | __main__:run:21 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 17:11:06.782 | INFO     | src.twitter.bk_twitter:start:186 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 17:15:37.258 | INFO     | __main__:run:21 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 17:15:37.260 | INFO     | src.twitter.bk_twitter:start:186 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 17:16:18.796 | ERROR    | src.twitter.bk_twitter:start:207 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: {'error_message': 'Failed to get authenticity token. Make sure you are using correct cookies or url.'} | Retrying..
+2024-06-30 17:16:27.898 | INFO     | src.twitter.bk_twitter:start:186 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 17:48:10.770 | INFO     | __main__:run:21 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-06-30 17:48:10.772 | INFO     | src.twitter.bk_twitter:start:139 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-06-30 17:57:32.328 | ERROR    | src.twitter.bk_twitter:start:160 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: {'error_message': 'Failed to get confirm url. Make sure you are using correct cookies or url.'} | Retrying..
+2024-06-30 17:57:34.769 | SUCCESS  | src.bot.bkbot:start:35 - Account: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Finished
+2024-07-01 10:09:31.088 | INFO     | __main__:run:20 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-07-01 10:09:31.089 | INFO     | src.twitter.bk_twitter:start:139 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-07-01 10:09:36.640 | ERROR    | src.twitter.bk_twitter:start:173 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: Failed to perform, curl: (56) Proxy CONNECT aborted. See https://curl.se/libcurl/c/libcurl-errors.html first for more details. | Retrying..
+2024-07-01 10:09:39.642 | INFO     | src.twitter.bk_twitter:start:139 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-07-01 10:10:09.649 | ERROR    | src.twitter.bk_twitter:start:173 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: Failed to perform, curl: (28) Connection timed out after 30004 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details. | Retrying..
+2024-07-01 10:10:12.653 | INFO     | src.twitter.bk_twitter:start:139 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-07-01 10:10:42.655 | ERROR    | src.twitter.bk_twitter:start:173 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: Failed to perform, curl: (28) Connection timed out after 30000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details. | Retrying..
+2024-07-01 10:10:45.659 | SUCCESS  | src.bot.bkbot:start:38 - Account: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Finished
+2024-07-01 10:15:07.289 | INFO     | __main__:run:20 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-07-01 10:15:07.290 | INFO     | src.twitter.bk_twitter:start:139 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-07-01 10:15:07.653 | ERROR    | src.twitter.bk_twitter:start:173 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: Failed to perform, curl: (56) Proxy CONNECT aborted. See https://curl.se/libcurl/c/libcurl-errors.html first for more details. | Retrying..
+2024-07-01 10:15:10.656 | INFO     | src.twitter.bk_twitter:start:139 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-07-01 10:15:16.286 | ERROR    | src.twitter.bk_twitter:start:173 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: Failed to perform, curl: (56) Proxy CONNECT aborted. See https://curl.se/libcurl/c/libcurl-errors.html first for more details. | Retrying..
+2024-07-01 10:15:19.288 | INFO     | src.twitter.bk_twitter:start:139 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-07-01 10:15:19.998 | ERROR    | src.twitter.bk_twitter:start:173 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: Failed to perform, curl: (56) Proxy CONNECT aborted. See https://curl.se/libcurl/c/libcurl-errors.html first for more details. | Retrying..
+2024-07-01 10:15:23.000 | SUCCESS  | src.bot.bkbot:start:38 - Account: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Finished
+2024-07-01 10:18:49.285 | INFO     | __main__:run:20 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-07-01 10:18:49.286 | INFO     | src.twitter.bk_twitter:start:139 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-07-01 10:19:19.294 | ERROR    | src.twitter.bk_twitter:start:173 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: Failed to perform, curl: (28) Connection timed out after 30005 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details. | Retrying..
+2024-07-01 10:19:22.297 | INFO     | src.twitter.bk_twitter:start:139 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-07-01 10:19:22.694 | ERROR    | src.twitter.bk_twitter:start:173 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: Failed to perform, curl: (56) Proxy CONNECT aborted. See https://curl.se/libcurl/c/libcurl-errors.html first for more details. | Retrying..
+2024-07-01 10:19:25.696 | INFO     | src.twitter.bk_twitter:start:139 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-07-01 10:19:26.071 | ERROR    | src.twitter.bk_twitter:start:173 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: Failed to perform, curl: (56) Proxy CONNECT aborted. See https://curl.se/libcurl/c/libcurl-errors.html first for more details. | Retrying..
+2024-07-01 10:19:29.073 | SUCCESS  | src.bot.bkbot:start:38 - Account: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Finished
+2024-07-01 10:21:23.282 | INFO     | __main__:run:20 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-07-01 10:21:23.283 | INFO     | src.twitter.bk_twitter:start:139 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-07-01 10:21:55.602 | ERROR    | src.twitter.bk_twitter:start:173 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Error while authorizing: Failed to perform, curl: (28) Connection timed out after 30004 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details. | Retrying..
+2024-07-01 10:21:57.600 | SUCCESS  | src.bot.bkbot:start:38 - Account: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Finished
+2024-07-01 10:23:14.668 | INFO     | __main__:run:20 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-07-01 10:23:14.669 | INFO     | src.twitter.bk_twitter:start:139 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-07-01 10:23:31.838 | SUCCESS  | src.twitter.bk_twitter:start:163 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorized
+2024-07-01 10:23:31.840 | SUCCESS  | src.bot.bkbot:start:38 - Account: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Finished
+2024-07-01 10:23:45.148 | INFO     | __main__:run:20 - Bot Started:
+- Accounts: 1
+- Threads: 15
+
+
+2024-07-01 10:23:45.149 | INFO     | src.twitter.bk_twitter:start:139 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorizing..
+2024-07-01 10:23:52.923 | SUCCESS  | src.twitter.bk_twitter:start:163 - Twitter: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Authorized
+2024-07-01 10:23:52.924 | SUCCESS  | src.bot.bkbot:start:38 - Account: 872b28d78bd15b8582c3c0be2ee63412c08afa6b | Finished
